@@ -95,7 +95,7 @@ An AI-powered notes generator built using **Next.js**, **TypeScript**, **Tailwin
 
 ## 💬 Contact  
 If you have any questions or suggestions, feel free to reach out at:  
-**Gaurav Singh** - [LinkedIn](https://www.linkedin.com/in/gaurav-singh)  
+**Gaurav Singh** - [LinkedIn](https://www.linkedin.com/in/gaurav-singh-746916238/)  
 
 ---
 
